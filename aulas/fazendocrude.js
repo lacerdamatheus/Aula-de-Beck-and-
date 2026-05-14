@@ -30,7 +30,7 @@ const server = http.createServer((req, res) =>{
     }
 
     //metodo post 
-    if(url ==="/livros"&& method==="post"){
+    if(url ==="/livros"&& method==="POST"){
 
         let body = '';
 

@@ -1,1 +1,0 @@
-console.log("rodando meu primeiro codigo em node")
